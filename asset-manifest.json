@@ -1,16 +1,16 @@
 {
   "main.css": "/react-mobx-message-list/static/css/main.9fd17911.chunk.css",
-  "main.js": "/react-mobx-message-list/static/js/main.fda8635d.chunk.js",
-  "main.js.map": "/react-mobx-message-list/static/js/main.fda8635d.chunk.js.map",
+  "main.js": "/react-mobx-message-list/static/js/main.57d631c2.chunk.js",
+  "main.js.map": "/react-mobx-message-list/static/js/main.57d631c2.chunk.js.map",
   "static/css/1.885688bf.chunk.css": "/react-mobx-message-list/static/css/1.885688bf.chunk.css",
   "static/js/1.bca002ec.chunk.js": "/react-mobx-message-list/static/js/1.bca002ec.chunk.js",
   "static/js/1.bca002ec.chunk.js.map": "/react-mobx-message-list/static/js/1.bca002ec.chunk.js.map",
   "runtime~main.js": "/react-mobx-message-list/static/js/runtime~main.ee5ac8f5.js",
   "runtime~main.js.map": "/react-mobx-message-list/static/js/runtime~main.ee5ac8f5.js.map",
   "static/media/all.min.css": "/react-mobx-message-list/static/media/fa-regular-400.fc5252e5.woff",
-  "static/css/1.885688bf.chunk.css.map": "/react-mobx-message-list/static/css/1.885688bf.chunk.css.map",
   "static/css/main.9fd17911.chunk.css.map": "/react-mobx-message-list/static/css/main.9fd17911.chunk.css.map",
+  "static/css/1.885688bf.chunk.css.map": "/react-mobx-message-list/static/css/1.885688bf.chunk.css.map",
   "index.html": "/react-mobx-message-list/index.html",
-  "precache-manifest.50920f0c6dc7763054271923568aebb9.js": "/react-mobx-message-list/precache-manifest.50920f0c6dc7763054271923568aebb9.js",
+  "precache-manifest.05c0feaf787cec595bd7d9fad8b95bed.js": "/react-mobx-message-list/precache-manifest.05c0feaf787cec595bd7d9fad8b95bed.js",
   "service-worker.js": "/react-mobx-message-list/service-worker.js"
 }

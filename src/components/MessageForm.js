@@ -30,6 +30,7 @@ class MessageForm extends Component {
             type="submit"
             className="rounded flex items-center bg-blue hover:bg-blue-dark p-2 px-4 ml-2 text-white text-sm font-bold outline-none"
           >
+            <i className="fas fa-paper-plane text-xs"></i>
             <span className="ml-2">Add message</span>
           </button>
         </div>

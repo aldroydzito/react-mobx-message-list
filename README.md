@@ -4,7 +4,7 @@
   src="./screenshots/screenshot.png">
 </div>
 
-## [DEMO](http://github.com)
+## [DEMO](https://aldroydzito.github.io/react-mobx-message-list/)
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
